@@ -4,26 +4,6 @@ h1, h3 {
 #notice_4 {
 	text-align: left;
 }
-
-img {
-	position: relative;
-	left: 40%;
-	width: 700px;
-}
-.description {
-	margin-left: 500px;
-}
-
-p {
-	width: 700px;
-	margin-left: 500px;
-}
-#notice_4 {
-	margin-left: 500px;
-}
-h4 {
-	margin-left: 500px;
-}
 a {
 	text-decoration: none;
 	color: green;
