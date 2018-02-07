@@ -1,0 +1,45 @@
+h1, h3 {
+	text-align: center;
+}
+#notice_4 {
+	text-align: left;
+}
+
+img {
+	position: relative;
+	left: 40%;
+	width: 700px;
+}
+.description {
+	margin-left: 500px;
+}
+
+p {
+	width: 700px;
+	margin-left: 500px;
+}
+#notice_4 {
+	margin-left: 500px;
+}
+h4 {
+	margin-left: 500px;
+}
+a {
+	text-decoration: none;
+	color: green;
+}
+.underline {
+	text-decoration: underline;
+}
+#notice_1, #notice_2, #notice_3, #notice_5 {
+	font-weight: bold;
+}
+.through {
+	text-decoration: line-through;
+}
+.italic {
+	font-style: italic;
+}
+body {
+	background-color: lightgrey;
+}
